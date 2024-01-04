@@ -1,0 +1,1 @@
+document.getElementById("calculator").style.display="none";
